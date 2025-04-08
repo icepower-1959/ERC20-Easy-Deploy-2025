@@ -1,0 +1,1 @@
+# ERC20-Easy-Deploy-2025
